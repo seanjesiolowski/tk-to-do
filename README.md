@@ -1,4 +1,4 @@
-# to-do-tk
+# tk-to-do
 
 A minimal to-do app built with Python and Tkinter.
 
